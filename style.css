@@ -1,0 +1,35 @@
+body
+{
+    color: white;
+    background: rgb(255, 21, 0);
+    
+
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: 69;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 420;
+    color: blanchedalmond;
+}
+#camera{
+    width: 500px;
+    height: 400px;
+    border: 6px solid red; 
+}
+img{
+    width: 90px;
+    border-radius: 67px;
+    padding: 56px;
+    box-shadow: 5px 5px 5px 5px green ;
+    
+
+}
+img:hover{
+    width:106px;
+    padding: 57px;
+}
